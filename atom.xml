@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-05-22T12:57:46.323Z</updated>
+  <updated>2018-05-22T13:02:00.904Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,16 +21,16 @@
     <link href="http://yoursite.com/2018/05/22/Python%E4%B9%8B%E5%85%A5%E9%97%A8/"/>
     <id>http://yoursite.com/2018/05/22/Python之入门/</id>
     <published>2018-05-22T12:23:46.000Z</published>
-    <updated>2018-05-22T12:57:46.323Z</updated>
+    <updated>2018-05-22T13:02:00.904Z</updated>
     
-    <content type="html"><![CDATA[<p>优秀的人，不是不合群，而是他们合群的人里面没有你</p>]]></content>
+    <content type="html"><![CDATA[<p>优秀的人，不是不合群，而是他们合群的人里面没有你</p><h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><p>由于现在大数据，机器学习等领域的再次火热，Python由于其丰富的开源机器学习库，跟活跃的开源社区贡献，已经成为每个CSer必须了解的一门语言。</p><p>从今天开始学习Python这门语言。</p>]]></content>
     
     <summary type="html">
     
       
       
         &lt;p&gt;优秀的人，不是不合群，而是他们合群的人里面没有你&lt;/p&gt;
-
+&lt;h2 id=&quot;快速开始&quot;&gt;&lt;a href=&quot;#快速开始&quot; class=&quot;headerlink&quot; title=&quot;快速开始&quot;&gt;&lt;/a&gt;快速开始&lt;/h2&gt;&lt;p&gt;由于现在大数据，机器学习等领域的再次火热，Python由于其
       
     
     </summary>
