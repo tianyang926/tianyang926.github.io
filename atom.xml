@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-05-22T12:37:30.884Z</updated>
+  <updated>2018-05-22T12:57:46.323Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="http://yoursite.com/2018/05/22/Python%E4%B9%8B%E5%85%A5%E9%97%A8/"/>
     <id>http://yoursite.com/2018/05/22/Python之入门/</id>
     <published>2018-05-22T12:23:46.000Z</published>
-    <updated>2018-05-22T12:37:30.884Z</updated>
+    <updated>2018-05-22T12:57:46.323Z</updated>
     
-    <content type="html"><![CDATA[<blockquote class="blockquote-center">优秀的人，不是不合群，而是他们合群的人里面没有你</blockquote>]]></content>
+    <content type="html"><![CDATA[<p>优秀的人，不是不合群，而是他们合群的人里面没有你</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;blockquote class=&quot;blockquote-center&quot;&gt;优秀的人，不是不合群，而是他们合群的人里面没有你&lt;/blockquote&gt;
+        &lt;p&gt;优秀的人，不是不合群，而是他们合群的人里面没有你&lt;/p&gt;
 
       
     
